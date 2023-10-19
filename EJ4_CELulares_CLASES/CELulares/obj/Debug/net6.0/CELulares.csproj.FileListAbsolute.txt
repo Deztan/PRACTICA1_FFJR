@@ -1,0 +1,28 @@
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.AssemblyInfoInputs.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.AssemblyInfo.cs
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.csproj.CoreCompileInputs.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\bin\Debug\net6.0\CELulares.exe
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\bin\Debug\net6.0\CELulares.deps.json
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\bin\Debug\net6.0\CELulares.runtimeconfig.json
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\bin\Debug\net6.0\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\bin\Debug\net6.0\CELulares.pdb
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\refint\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.pdb
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\CELulares.genruntimeconfig.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares\CELulares\obj\Debug\net6.0\ref\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\bin\Debug\net6.0\CELulares.exe
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\bin\Debug\net6.0\CELulares.deps.json
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\bin\Debug\net6.0\CELulares.runtimeconfig.json
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\bin\Debug\net6.0\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\bin\Debug\net6.0\CELulares.pdb
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.AssemblyInfoInputs.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.AssemblyInfo.cs
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.csproj.CoreCompileInputs.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\refint\CELulares.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.pdb
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\CELulares.genruntimeconfig.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\CELulares - copia\CELulares\obj\Debug\net6.0\ref\CELulares.dll

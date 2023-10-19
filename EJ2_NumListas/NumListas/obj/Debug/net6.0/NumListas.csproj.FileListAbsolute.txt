@@ -1,0 +1,14 @@
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.AssemblyInfoInputs.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.AssemblyInfo.cs
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.csproj.CoreCompileInputs.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\bin\Debug\net6.0\NumListas.exe
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\bin\Debug\net6.0\NumListas.deps.json
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\bin\Debug\net6.0\NumListas.runtimeconfig.json
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\bin\Debug\net6.0\NumListas.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\bin\Debug\net6.0\NumListas.pdb
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\refint\NumListas.dll
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.pdb
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\NumListas.genruntimeconfig.cache
+D:\1.ESTUDIO\INF-2420\practicas codigo\NumListas\NumListas\obj\Debug\net6.0\ref\NumListas.dll
